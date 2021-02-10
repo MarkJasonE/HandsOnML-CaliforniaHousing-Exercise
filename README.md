@@ -7,5 +7,5 @@ Check it out: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorF
 <h3>Subject covered in this chapter:</h3>
 
 Section: Get The Data
-  > Create a workspace
-  > Download the data
+<blockquote>Create a workspace</blockquote>
+<blockquote>Download the data</blockquote>
