@@ -1,4 +1,4 @@
-# HandsOnML-Housing-Exercise
+# Hands On ML- Part 1, Ch.2 - Housing
 
 This is the code along for chapter 2 from "Hands On Machine Learning" (2nd Edition) by Aurélien Géron
 <br>
