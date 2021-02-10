@@ -9,3 +9,10 @@ Check it out: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorF
 <h3>Section: Get The Data</h3>
 <blockquote>Create a workspace</blockquote>
 <blockquote>Download the data</blockquote>
+<blockquote>Take a quick look at the data structures</blockquote>
+<blockquote>Create a test set</blockquote>
+
+<h3>Section: Discover And Visualize THe Data To Gain Insights</h3>
+<blockquote>Visualize geographical data</blockquote>
+<blockquote>Looking fro correlations</blockquote>
+<blockquote>Experimenting with attribute combinations</blockquote>
