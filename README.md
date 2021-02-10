@@ -4,5 +4,8 @@ This is the code along for chapter 2 from "Hands On Machine Learning" (2nd Editi
 <br>
 Check it out: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646
 
-To Do:
-Bullet points on the covered topics
+Subject covered in this chapter:
+
+*Get The Data
+  > Create a workspace
+  > Download the data
