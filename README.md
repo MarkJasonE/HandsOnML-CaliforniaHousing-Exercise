@@ -14,5 +14,23 @@ Check it out: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorF
 
 <h3>Section: Discover And Visualize THe Data To Gain Insights</h3>
 <blockquote>Visualize geographical data</blockquote>
-<blockquote>Looking fro correlations</blockquote>
+<blockquote>Looking for correlations</blockquote>
 <blockquote>Experimenting with attribute combinations</blockquote>
+
+<h3>Section: Prepare The Data For Machine Learning Algorithms</h3>
+<blockquote>Data cleaning</blockquote>
+<blockquote>Handling text and categorical attributes</blockquote>
+<blockquote>Custom transformers</blockquote>
+<blockquote>Feature scaling</blockquote>
+<blockquote>Transformation pipelines</blockquote>
+
+<h3>Section: Select And Train A Model</h3>
+<blockquote>Training and evaluating on the training set</blockquote>
+<blockquote>Better evaluation using cross validation</blockquote>
+
+<h3>Section: Fine Tune Your Model</h3>
+<blockquote>Grid search</blockquote>
+<blockquote>Randomized search</blockquote>
+<blockquote>Ensemble methods</blockquote>
+<blockquote>Analyze the best models and their errors</blockquote>
+<blockquote>Evaluate your system on the test set</blockquote>
