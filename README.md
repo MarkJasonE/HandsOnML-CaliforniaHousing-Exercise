@@ -34,3 +34,9 @@ Check it out: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorF
 <blockquote>Ensemble methods</blockquote>
 <blockquote>Analyze the best models and their errors</blockquote>
 <blockquote>Evaluate your system on the test set</blockquote>
+
+<h3>Section: Extra Materials</h3>
+<blockquote>A full pipeline with both preparation and prediction</blockquote>
+<blockquote>Model persistence using joblib </blockquote>
+
+<h3>Section: Solutions To The Exercise Questions</h3>
