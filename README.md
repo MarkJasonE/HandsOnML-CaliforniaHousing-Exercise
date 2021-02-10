@@ -1,4 +1,4 @@
-# Hands On ML- Part 1, Ch.2 - Housing
+# Hands On ML- Part 1, Ch.2 - California Housing
 
 This is the code along for chapter 2 from "Hands On Machine Learning" (2nd Edition) by Aurélien Géron
 <br>
